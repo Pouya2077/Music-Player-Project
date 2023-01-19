@@ -28,3 +28,7 @@ I wanted to see how much I could ***improve my coding abilities*** by using new 
 The first step to creating this web app was to establish the basic page and a plan for its layout. I made a rough draft of how I wanted it to be set up as can be seen here.
 
 ![image](https://github.com/Pouya2077/Personal-Project-2023/blob/main/Layout%20of%20Website.png)
+Here my basic idea was to have the appropriate titles, an area to load songs, an area to upload songs, and the player.
+
+Creating the front end of the website was quite easy by using some software known as ***Streamlit*** which uses python to code webapps and has many of their own functions to help with the process. Here is a snippet of what my code looked like after the front end was complete.
+![image](
