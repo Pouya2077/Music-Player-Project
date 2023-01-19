@@ -91,3 +91,15 @@ Streamlit is fantastic software with lots of useful libraries and functions to u
 
 2. Creating and connecting an SQL database.
 SQL is a powerful language and although the syntax is quite simple it still took some time to learn. Using online tutoriels helped me through most of it and experimentation the rest. The hardest part was acutallly connecting the database to VS Code. Connecting involved many confusing extensions and administrative privleges that took time to do. After figuring that out everything went smoothly and the power SQL has was extrememly useful while creating my project. 
+
+3. Converting bytes data and formatting the website. 
+At first I didn't understand the complexitites of the type of data that must be used in Streamlit vs. SQL and its tables. Learning what I must convert to and how took time but eventually turned out okay. Now that I know the differences it will be easier to code with binary and bytes data in the future.
+
+### If I had more time I would...
+If I had more time to work on my project there are three things I would do. 
+
+1. Would create a function that allows the user to delete audio they don't want from the database. 
+2. Increase the file size that the table can accept.
+3. Make the website more visually appealing to the user.
+
+### The code is mine because...
