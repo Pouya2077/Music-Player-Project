@@ -55,4 +55,6 @@ Here we can see the rows I have in the table of my database. Each row has column
 
 After creating the database I connected it to my VS Code scripts using the extensions that vs code had. This was a difficult process that required admin privlages to set up but the final product was worth it. After the connection I could code in VS Code with a mix of SQL in my python code!
 
-![image](
+![image](https://github.com/Pouya2077/Personal-Project-2023/blob/main/Connection%20Pic.PNG)
+
+On the left side of the page we can see the successful connection between the database and VS Code. In my file i used the VS Code SQL connector extension to connect my database. After, I set a variable to the query executer of SQL through the db.cursor() method (which would prove useful while coding as it let me use SQL syntax.)
