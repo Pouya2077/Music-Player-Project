@@ -82,3 +82,12 @@ If the user is to selected one it would tell them. Then that variable is used in
 <br>
 
 ***After finishing all these steps I had successfully completed my project, the webapp music player with its own databsae!***
+
+### Some challenges I encountered were...
+There were many challenges I encountered during this project because it was uncharted territory for me, but by staying determined I was able to improve and successfullly finishing my project. Overcoming these challenges helped me devise new methods and learn new concepts that will help me code in the future as well. 
+
+1. Learning to use Streamlit.
+Streamlit is fantastic software with lots of useful libraries and functions to use, however at the start I had a difficult time learning their syntax and the way their functions worked. Eventually, by reading their documentation (from the official website) and following some tutoriels I overcame the curve and was able to use Streamlit adeptly. 
+
+2. Creating and connecting an SQL database.
+SQL is a powerful language and although the syntax is quite simple it still took some time to learn. Using online tutoriels helped me through most of it and experimentation the rest. The hardest part was acutallly connecting the database to VS Code. Connecting involved many confusing extensions and administrative privleges that took time to do. After figuring that out everything went smoothly and the power SQL has was extrememly useful while creating my project. 
