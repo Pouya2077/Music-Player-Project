@@ -38,3 +38,7 @@ Creating the front end of the website was quite easy by using some software know
 
 <br>
 ![image](https://github.com/Pouya2077/Personal-Project-2023/blob/main/First%20Progress%20Pic.png)
+
+<br>
+
+The next step was to create a database (I later named 'song_database') in SQL using their workbench software. Learning SQL took some some time and eventually using online resources and some experimentation I setup my databsae, ready to connect to VS Code. 
