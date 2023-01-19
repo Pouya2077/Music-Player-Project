@@ -37,4 +37,4 @@ Here my basic idea was to have the appropriate titles, an area to load songs, an
 Creating the front end of the website was quite easy by using some software known as ***Streamlit*** which uses python to code webapps and has many of their own functions to help with the process. Here is a snippet of what my code looked like after the front end was complete.
 
 <br>
-![image](
+![image](https://github.com/Pouya2077/Personal-Project-2023/blob/main/First%20Progress%20Pic.PNG)
