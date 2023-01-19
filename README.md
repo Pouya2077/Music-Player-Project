@@ -43,3 +43,5 @@ Creating the front end of the website was quite easy by using some software know
 
 
 The next step was to create a database (I later named 'song_database') in SQL using their workbench software. Learning SQL took some some time and eventually using online resources and some experimentation I setup my databsae, ready to connect to VS Code. 
+
+![image](
