@@ -78,3 +78,7 @@ After finishing the upload capabilites I moved onto loading the audio files. Aft
 I used streamlit's 'sidebar' function to create a sidebar that would display the audio files. Using SQL i selected all the song names and set them to a variable, then inserted this variable into the sidebar array for the user to see. 
 
 If the user is to selected one it would tell them. Then that variable is used in SQL syntax to select the data by the condition of its name in the table and choose it. Using the io libraries of python I converted this data to binary and inserted it into the 'st.audio' function that streamlit has (function only excepts data in bytes). From there streamlit took care of the rest and the audio is playable!
+
+<br>
+
+***After finishing all these steps I had successfully completed my project, the webapp music player with its own databsae!***
