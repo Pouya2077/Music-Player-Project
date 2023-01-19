@@ -58,3 +58,9 @@ After creating the database I connected it to my VS Code scripts using the exten
 ![image](https://github.com/Pouya2077/Personal-Project-2023/blob/main/Connection%20Pic.PNG)
 
 On the left side of the page we can see the successful connection between the database and VS Code. In my file i used the VS Code SQL connector extension to connect my database. After, I set a variable to the query executer of SQL through the db.cursor() method (which would prove useful while coding as it let me use SQL syntax.)
+
+<br>
+
+After connecting my database I was finally able to start on the backend of my program. First came uploading audio files into the databse. To do this I employed a mix of streamlit and python-SQL.
+
+![image](
