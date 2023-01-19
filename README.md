@@ -63,4 +63,8 @@ On the left side of the page we can see the successful connection between the da
 
 After connecting my database I was finally able to start on the backend of my program. First came uploading audio files into the databse. To do this I employed a mix of streamlit and python-SQL.
 
-![image](
+![image](https://github.com/Pouya2077/Personal-Project-2023/blob/main/File%20uploading%20pic.PNG)
+
+I used streamlit's extremely useful st.file_uploader function to let the user upload files. This function stores the file onto the function and ram of the computer. However, once another is uploaded the previous is erased. This is very important as it lets me easily inest the data into the database and let the user delete the previous data on the function themselves once they upload another audio file. 
+
+Once a file is uploaded the data of it is read using the io python libraries. This is then set to a function (so is its name pulled form the data) and using SQL-python syntax I am able to insert it into the appropriate columns in my databsae. 'db.commit' here is extremely important as it lets SQL know to commit the changes.
