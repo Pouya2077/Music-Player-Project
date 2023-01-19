@@ -68,3 +68,9 @@ After connecting my database I was finally able to start on the backend of my pr
 I used streamlit's extremely useful st.file_uploader function to let the user upload files. This function stores the file onto the function and ram of the computer. However, once another is uploaded the previous is erased. This is very important as it lets me easily inest the data into the database and let the user delete the previous data on the function themselves once they upload another audio file. 
 
 Once a file is uploaded the data of it is read using the io python libraries. This is then set to a function (so is its name pulled form the data) and using SQL-python syntax I am able to insert it into the appropriate columns in my databsae. 'db.commit' here is extremely important as it lets SQL know to commit the changes.
+
+<br>
+
+After finishing the upload capabilites I moved onto loading the audio files. After creating the loading capabilities next came inserting it into the player for the user to use at their hearts content. 
+
+![image](
