@@ -112,4 +112,5 @@ Although I did use online resources they were strictly for learning purposes, no
 4. Learning how to connect databases and convert data
 
 ### Video Demonstration of Program:
+![video](https://github.com/Pouya2077/Personal-Project-2023/blob/main/vid.mp4)
 
