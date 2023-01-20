@@ -114,3 +114,10 @@ Although I did use online resources they were strictly for learning purposes, no
 ### Video Demonstration of Program:
 ![video](https://github.com/Pouya2077/Personal-Project-2023/blob/main/vid.mp4)
 
+### Here Are the Sources I Used:
+https://docs.streamlit.io/library/get-started/main-concepts
+https://docs.streamlit.io/
+https://www.w3schools.com/
+https://www.youtube.com/watch?v=UUDQd90akSU
+https://www.youtube.com/watch?v=91iNR0eG8kE
+
