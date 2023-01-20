@@ -103,3 +103,13 @@ If I had more time to work on my project there are three things I would do.
 3. Make the website more visually appealing to the user.
 
 ### The code is mine because...
+Although I did use online resources they were strictly for learning purposes, nothing was copy pasted. Likewise, I truly learned from the tutoriels and wrote many lines of code (and debugged them) without the aid of the internet. 
+
+### My Key Learnings:
+1. Coding with SQL; how to make and manage a database
+2. Working with Streamlit and creating a web app
+3. Becoming more fluent with python and its libraries
+4. Learning how to connect databases and convert data
+
+### Video Demonstration of Program:
+
