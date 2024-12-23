@@ -1,5 +1,5 @@
 # Online Music Player
-This is my personal project that I did for programming 12. I decided to make a webapp that would take uploaded audio and play it. 
+This is my personal project that I did for my highschool programming 12 class. I decided to make a webapp that would take uploaded audio and play it. 
 
 ### Background Info:
 I decided to make a web app that would allow the user to play audio. Audio files would be uploaded to the webapp which would take them and insert them into a database. From there the user could select the audio file they want to load, then play it in the player. This project involved various methods, languages, and lots of trial and error to complete, but the final product came out sufficient and satisfying. 
