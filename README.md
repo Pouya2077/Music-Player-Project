@@ -1,4 +1,4 @@
-# Online Music Player
+# Music Player Web Application
 This is my personal project that I did for my highschool programming 12 class. I decided to make a webapp that would take uploaded audio and play it. 
 
 ### Background Info:
